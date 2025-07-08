@@ -11,13 +11,17 @@
 ## File Structure
 ```
 AutoStitch
-├── Stitcher             # Panorama stitching implements in python
-│   ├── main.py          # Main.py for stitching images
+├── images               # Directory containing input images for stitching
+├── Stitcher             # Panorama stitching implemented in Python
+│   ├── __init__.py      # Marks the directory as a Python package
 │   ├── Constant.py      # Constants used throughout the project
-│   └── __init__.py      # Marks the directory as a Python package
-├── requirements.txt      # Lists project dependencies
-├── Src_images            # source images need to stitch
-└── README.md             # Project documentation
+│   └── main.py          # Main script for stitching images
+├── Stitcher++           # Panorama stitching implemented in C++
+│   ├── README.md        # Documentation specific to the C++ implementation
+│   └── Stitcher.cpp     # C++ source file for stitching logic
+├── README.md            # Project documentation
+├── LICENSE              # License information for the project
+└── requirements.txt      # Lists Python dependencies required for the project
 ```
 
 ## Installation
