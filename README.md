@@ -27,7 +27,7 @@ To run the AutoStitch project, you need to have Python installed on your machine
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/KiMomota/AutoStitch.git
    cd AutoStitch
    ```
 
@@ -37,13 +37,12 @@ To run the AutoStitch project, you need to have Python installed on your machine
    ```
 
 ## Usage
-To use the AutoStitch functionality, run the `main.py` script with the path to the directory containing the images you want to stitch:
+To use the AutoStitch functionality, modify the path to the images you want to stitch. 
+Then run the `main.py` script with the path to the directory containing the images you want to stitch:
 
 ```
 python src/main.py
 ```
-
-Make sure to replace `src/main.py` with the correct path if you are executing from a different directory.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
