@@ -22,7 +22,7 @@
 After compilation, the executable Stitcher.exe will be generated in the following path:
 ./Stitcher/x64/Release/ 
 
-![图片](https://github.com/user-attachments/assets/6d1d294a-38ce-478c-a8ab-7a58dba0ad24)
+//![图片](https://github.com/user-attachments/assets/6d1d294a-38ce-478c-a8ab-7a58dba0ad24)
 
 
 Open a terminal in this directory and run the stitching command with your own image paths: 
