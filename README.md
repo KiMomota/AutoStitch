@@ -51,7 +51,7 @@ We have provided a GUI for users to stitch images. Users can automatically adjus
 
 
 ## FurtherMore
-Furthermore, we will provide an end-to-end transformer-based model for image stitching. The code will become available after the paper is accepted.
-You are welcome to contact me via email for any questions or suggestions.
-If you find this project helpful, please consider giving it a star ⭐ on GitHub.
+> Furthermore, we will provide an end-to-end transformer-based model for image stitching. The code will become available after the paper is accepted.
+> You are welcome to contact me via email for any questions or suggestions.
+> If you find this project helpful, please consider giving it a star ⭐ on GitHub.
 
