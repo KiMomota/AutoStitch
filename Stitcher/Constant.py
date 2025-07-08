@@ -70,4 +70,4 @@ WAVE_CORRECT_CHOICES['horiz'] = cv.detail.WAVE_CORRECT_HORIZ
 WAVE_CORRECT_CHOICES['no'] = None
 WAVE_CORRECT_CHOICES['vert'] = cv.detail.WAVE_CORRECT_VERT
 
-BLEND_CHOICES = ('multiband', 'feather', 'no',)
+BLEND_CHOICES = ('multiband', 'feather', 'no',) 
