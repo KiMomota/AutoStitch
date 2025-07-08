@@ -1,7 +1,7 @@
-# AutoStitch Project
+# AutoStitch:Panoramic Image Stitching
 
 ## Overview
-AutoStitch is a Python project designed for stitching images together seamlessly. It utilizes advanced computer vision techniques to match features, compensate for exposure differences, and blend images into a final composite. This project is particularly useful for creating panoramic images from multiple photographs.
+ This reporoti
 
 ## Features
 - **Image Stitching**: Combines multiple images into a single panoramic image.
