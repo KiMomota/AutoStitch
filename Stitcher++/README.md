@@ -32,8 +32,13 @@ Open a terminal in this directory and run the stitching command with your own im
 >.\Stitcher.exe --features surf --work_megapix 0.6 --blend multiband --expos_comp gain --compose_megapix 0.3 D:\images\01.jpg D:\images\02.jpg >D:\images\03.jpg D:\images\04.jpg D:\images\05.jpg D:\images\06.jpg D:\images\07.jpg D:\images\08.jpg D:\images\09.jpg D:\images\10.jpg
 
 Original images:
-![图片](https://github.com/user-attachments/assets/6fcf2848-a4b5-416c-b94f-a46568907c0b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6fcf2848-a4b5-416c-b94f-a46568907c0b" width="600" alt="Stitcher++" />
+</div>
 
-Panorama:
-![图片](https://github.com/user-attachments/assets/261d6c95-e19c-442c-8206-07aa06e5ba4b)
+Panorama after stitching：
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/261d6c95-e19c-442c-8206-07aa06e5ba4b" width="600" alt="Stitcher++" />
+</div>
+
 
