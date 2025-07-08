@@ -1,7 +1,11 @@
 # AutoStitch:Panoramic Image Stitching
 
-## Overview
- This reporoti
+## Introduction
+>This repository demonstrates the implementation of AutoStitch  in Python, based on the traditional image stitching pipeline using SIFT features  and RANSAC  for robust matching. We provide a variety of configurable parameters for key stages >including feature extraction , matching , seam estimation , and image blending . 
+
+>Our method achieves state-of-the-art (SOTA)  performance when compared to both traditional and deep learning-based approaches. Unlike previous methods, users can input all images captured from a single scene, and the system will >automatically stitch them into a seamless panoramic image. 
+
+>On an AMD 8845HS CPU , stitching 10 frames of 2K resolution images  takes less than 3 seconds . If you have access to a GPU, enable CUDA acceleration by setting the parameter try_cuda=True for improved performance. 
 
 ## Features
 - **Image Stitching**: Combines multiple images into a single panoramic image.
