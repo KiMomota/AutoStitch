@@ -377,7 +377,7 @@ def main(path):
 if __name__ == '__main__':
     import time
     start = time.time()
-    path = r"/AutoStitch/Src_images"
+    path = r"/AutoStitch/images"
     main(path)
     end = time.time()
 
