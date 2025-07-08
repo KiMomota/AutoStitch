@@ -43,7 +43,7 @@ To use the AutoStitch functionality, modify the path to the images you want to s
 Then run the `main.py` script with the path to the directory containing the images you want to stitch:
 
 ```
-python src/main.py
+python Stitcher/main.py
 ```
 
 ![f4f41e38-65cf-4b42-903c-fe8b7cfdda5e](https://github.com/user-attachments/assets/8fc7b8f9-313d-4f42-8894-d25d09cb1d1d)
