@@ -371,7 +371,7 @@ def main(path):
         result = None
         result_mask = None
         result, result_mask = blender.blend(result, result_mask)
-        path = r"/AutoStitch/result.jpg"
+        path = r"/AutoStitch/result.jpg"  
         cv2.imwrite(path, result)
 
 if __name__ == '__main__':
