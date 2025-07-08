@@ -5,7 +5,7 @@
 
 >Our method achieves state-of-the-art (SOTA)  performance when compared to traditional / deep learning-based methods. users can input all images captured from a single scene, and automatically return seamless panoramic image. 
 
->On an AMD 8845HS CPU , stitching 10 frames of 2K resolution images takes less than 3 seconds . If you have access to a GPU, enable CUDA acceleration by setting the parameter try_cuda=True for improved performance.
+>On an AMD 9950X3D CPU , stitching 12 frames of 2K resolution images takes less than 3 seconds . If you have access to a GPU, enable CUDA acceleration by setting the parameter try_cuda=True for improved performance.
 
 
 ## File Structure
@@ -51,7 +51,7 @@ We have provided a GUI for users to stitch images. Users can automatically adjus
 
 
 ## FurtherMore
-> Furthermore, we will provide an end-to-end transformer-based model for image stitching. The code will become available after the paper is accepted.                                    
-> You are welcome to contact me via email for any questions or suggestions.                                                 
+> Furthermore, we will provide an end-to-end transformer-based model for image stitching. The code will be available soon.                                 
+> You are welcome to contact me via email for any questions or suggestions or issues.                                                 
 > If you find this project helpful, please consider giving it a star ⭐ on GitHub.                                                 
 
