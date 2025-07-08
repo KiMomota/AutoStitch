@@ -44,12 +44,14 @@ python src/main.py
 
 ![f4f41e38-65cf-4b42-903c-fe8b7cfdda5e](https://github.com/user-attachments/assets/8fc7b8f9-313d-4f42-8894-d25d09cb1d1d)
 
-## GUI
+## WebUI
 We have provided a GUI for users to stitch images. Users can automatically adjust the parameters, and after selecting the input images, the image will display in panorama.
 ![b5cc9c11eadaa8d023671e7ae5755086](https://github.com/user-attachments/assets/1baf9c8f-9753-4870-aef1-5539c9ba1fef)
 
 
 
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+## FurtherMore
+Furthermore, we will provide an end-to-end transformer-based model for image stitching. The code will become available after the paper is accepted.
+You are welcome to contact me via email for any questions or suggestions.
+If you find this project helpful, please consider giving it a star ⭐ on GitHub.
 
