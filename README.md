@@ -5,7 +5,7 @@
 
 >Our method achieves state-of-the-art (SOTA)  performance when compared to traditional / deep learning-based methods. users can input all images captured from a single scene, and automatically return seamless panoramic image. 
 
->On an AMD 8845HS CPU , stitching 10 frames of 2K resolution images  takes less than 3 seconds . If you have access to a GPU, enable CUDA acceleration by setting the parameter try_cuda=True for improved performance.
+>On an AMD 8845HS CPU , stitching 10 frames of 2K resolution images takes less than 3 seconds . If you have access to a GPU, enable CUDA acceleration by setting the parameter try_cuda=True for improved performance.
 
 
 ## File Structure
@@ -41,6 +41,8 @@ Then run the `main.py` script with the path to the directory containing the imag
 ```
 python src/main.py
 ```
+
+![f4f41e38-65cf-4b42-903c-fe8b7cfdda5e](https://github.com/user-attachments/assets/8fc7b8f9-313d-4f42-8894-d25d09cb1d1d)
 
 ## GUI
 We have provided a GUI for users to stitch images. Users can automatically adjust the parameters, and after selecting the input images, the image will display in panorama.
