@@ -11,7 +11,7 @@
 ## File Structure
 ```
 AutoStitch
-├── src
+├── Stitcher             # Panorama stitching implements in python
 │   ├── main.py          # Main.py for stitching images
 │   ├── Constant.py      # Constants used throughout the project
 │   └── __init__.py      # Marks the directory as a Python package
